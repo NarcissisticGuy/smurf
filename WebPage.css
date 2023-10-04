@@ -65,6 +65,9 @@ body {
     text-underline-offset: 8px;
     color: black;
     background-color: white;
+    box-shadow: 4px 4px 4px 1px rgb(167, 173, 157);
+    border-radius: 4px;
+    text-shadow: 4px 2px 4px ;
 }
 #left img{
     width: 130px;
